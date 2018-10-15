@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "./dist/",
     "sourceMap": true,
-    "jsx": "react",
+    "jsx": "preserve",
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "noImplicitAny": true,
